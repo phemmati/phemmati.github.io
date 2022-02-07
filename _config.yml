@@ -1,0 +1,13 @@
+title: "Parisa Hemmati"
+email: phemmati@usfca.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my portfolio website!
+baseurl: "/" 
+url: "https://phemmati.github.io/" 
+twitter_username: phemmati
+github_username:  phemmati
+
+sass:
+  sass_dir: _sass
+
+icon: /assets/img/icon.jpg
