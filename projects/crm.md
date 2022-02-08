@@ -1,5 +1,5 @@
 ---
-title: Customer Relationship management website
+title: Customer Relationship management
 layout: page
 ---
 
